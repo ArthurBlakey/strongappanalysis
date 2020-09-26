@@ -1,1 +1,1 @@
-Messing about with a csv containing my workout data, in hopes of getting familiar with the pandas library.
+Messing about with some  csvs containing my workout data from veloviewer and strong app, in hopes of getting familiar with the pandas library.
